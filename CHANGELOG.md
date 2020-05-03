@@ -1,5 +1,15 @@
+<a name="3.0.2"></a>
+## [3.0.2](https://github.com/bitpay/cordova-plugin-qrscanner/compare/3.0.1...3.0.2) (2019-03-29)
+
+
+### Bug Fixes
+
+* **android:** updated ActivityCompat import to androidx namespace
+
+
+
 <a name="3.0.1"></a>
-## [3.0.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...3.0.1) (2019-03-29)
+## [3.0.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/3.0.0...3.0.1) (2019-03-29)
 
 
 ### Bug Fixes
@@ -9,7 +19,7 @@
 
 
 <a name="3.0.0"></a>
-# [3.0.0](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...3.0.0) (2019-03-28)
+# [3.0.0](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.1...3.0.0) (2019-03-28)
 
 
 ### BREAKING CHANGES
