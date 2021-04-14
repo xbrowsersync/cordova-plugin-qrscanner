@@ -1,3 +1,12 @@
+<a name="3.0.3"></a>
+
+
+### Bug Fixes
+
+* **android:** fixed webview background not switching to transparent when scanning starts
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/bitpay/cordova-plugin-qrscanner/compare/3.0.1...3.0.2) (2019-03-29)
 
